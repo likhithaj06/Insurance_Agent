@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL-2025-30044
+Policyholder Name: Deepak Rao
+Effective Dates: 01-Jan-2025 to 31-Dec-2025
+
+Incident Date: 01-Jul-2026
+Time: 11:00
+Location: Indiranagar, Bengaluru
+Description: Two-wheeler collided with a parked vehicle, moderate damage to both.
+
+Claimant: Deepak Rao
+Third Parties: Owner of parked vehicle
+Contact Details: deepak.rao@email.com, +91-9012345678
+
+Asset Type: Two-Wheeler
+Asset ID: KA-03-XY-7788
+Estimated Damage: 25000
+
+Claim Type: Vehicle Damage
+Attachments: photos.zip
+Initial Estimate: 25000

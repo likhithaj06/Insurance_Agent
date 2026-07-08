@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL-2025-30077
+Policyholder Name: Arjun Mehta
+Effective Dates: 01-Jan-2025 to 31-Dec-2025
+
+Incident Date: 06-Jul-2026
+Time: 19:20
+Location: BTM Layout, Bengaluru
+Description: Claimant reports a workplace injury, but the account of events is inconsistent with CCTV footage and appears staged.
+
+Claimant: Arjun Mehta
+Third Parties: Employer - Zenith Corp
+Contact Details: arjun.mehta@email.com, +91-9345612345
+
+Asset Type: N/A
+Asset ID: N/A
+Estimated Damage: 150000
+
+Claim Type: Injury
+Attachments: medical_report.pdf, cctv_snippet.mp4
+Initial Estimate: 150000

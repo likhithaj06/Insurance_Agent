@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL-2024-55011
+Policyholder Name: Vikram Singh
+Effective Dates: 01-Jan-2024 to 31-Dec-2024
+
+Incident Date: 20-Jun-2026
+Time: 22:00
+Location: Outer Ring Road, Bengaluru
+Description: Vehicle found burned in an isolated area. Witness statements appear inconsistent and the scene looks staged.
+
+Claimant: Vikram Singh
+Third Parties: Unknown witness
+Contact Details: vikram.singh@email.com, +91-9988776655
+
+Asset Type: Car
+Asset ID: KA-01-AB-1234
+Estimated Damage: 380000
+
+Claim Type: Vehicle Damage
+Attachments: incident_photos.zip
+Initial Estimate: 380000

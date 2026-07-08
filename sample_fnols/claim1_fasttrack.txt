@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL-2024-11238
+Policyholder Name: Ramesh Kumar
+Effective Dates: 01-Jan-2024 to 31-Dec-2024
+
+Incident Date: 15-Jun-2026
+Time: 14:30
+Location: MG Road, Bengaluru
+Description: Minor fender bender at a traffic signal, rear bumper scratched.
+
+Claimant: Ramesh Kumar
+Third Parties: None
+Contact Details: ramesh.kumar@email.com, +91-9876543210
+
+Asset Type: Car
+Asset ID: KA-05-MJ-2231
+Estimated Damage: 12500
+
+Claim Type: Vehicle Damage
+Attachments: photos.zip, police_report.pdf
+Initial Estimate: 12500

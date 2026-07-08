@@ -1,0 +1,22 @@
+FIRST NOTICE OF LOSS
+
+Policy Number: POL-2025-30088
+Policyholder Name: Kavitha Nair
+Effective Dates: 01-Jan-2025 to 31-Dec-2025
+
+Incident Date: 07-Jul-2026
+Time: 13:10
+Location: Electronic City, Bengaluru
+Description: Kitchen fire caused significant damage to cabinetry and appliances.
+
+Claimant: Kavitha Nair
+Third Parties: None
+Contact Details: kavitha.nair@email.com, +91-9456781234
+
+Asset Type: Home
+Asset ID: HM-5521
+Estimated Damage: 320000
+
+Claim Type: Property Damage
+Attachments: fire_dept_report.pdf, photos.zip
+Initial Estimate: 320000

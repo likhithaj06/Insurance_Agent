@@ -1,0 +1,6 @@
+print("Hello World")
+name = "Likhitha"
+age = 22
+
+IO.puts(name)
+IO.puts(age)
